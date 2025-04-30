@@ -95,7 +95,7 @@ Please see [evaluation](https://github.com/FudanDISC/MASER/tree/main/src/evaluat
 We encourage the use of our code and data in your research and kindly request citation of our paper as follows:
 
 ```BibTeX
-@inproceedings{shengbinyue-etal-2025-multi,
+@inproceedings{yue-etal-2025-multi,
     title = "Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction",
     author = "Shengbin, Yue  and Huang, Ting  and Jia, Zheng  and Wang, Siyuan  and Liu, Shujun  and Song, Yun  and Huang, Xuanjing  and Wei, Zhongyu",
     booktitle = "Findings of the Association for Computational Linguistics: NAACL 2025",
