@@ -1,4 +1,4 @@
-# [NAACL 2025] Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction [[Paper]](https://arxiv.org/abs/2502.06882)
+# [NAACL 2025] Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction [[Paper]](https://aclanthology.org/2025.findings-naacl.365.pdf)
 
 ShengbinYue*, Ting Huang*, Zheng Jia*, Siyuan Wang, Shujun Liu, Yun Song, Xuanjing Huang, Zhongyu Wei
 
