@@ -97,14 +97,7 @@ We encourage the use of our code and data in your research and kindly request ci
 ```BibTeX
 @inproceedings{shengbinyue-etal-2025-multi,
     title = "Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction",
-    author = "Yue, Shengbin  and
-      Huang, Ting  and
-      Jia, Zheng  and
-      Wang, Siyuan  and
-      Liu, Shujun  and
-      Song, Yun  and
-      Huang, Xuanjing  and
-      Wei, Zhongyu",
+    author = "Yue, Shengbin  and Huang, Ting  and Jia, Zheng  and Wang, Siyuan  and Liu, Shujun  and Song, Yun  and Huang, Xuanjing  and Wei, Zhongyu",
     booktitle = "Findings of the Association for Computational Linguistics: NAACL 2025",
     month = apr,
     year = "2025",
